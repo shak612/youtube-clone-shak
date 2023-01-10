@@ -1,7 +1,7 @@
 # youtube-clone-shak
 # here it is live link:- https://youtube-clone-shak.netlify.app
 
-React.js, Material UI, and just a couple of other dependencies, you'll build everything else from scratch!
+React.js, Material UI, and just a couple of other dependencies.
 
 In this project used:-
 - React functional components and their reusability.
